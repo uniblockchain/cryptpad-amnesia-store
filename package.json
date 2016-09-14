@@ -1,0 +1,23 @@
+{
+  "name": "cryptpad-amnesia-store",
+  "version": "1.0.0",
+  "description": "storage api for cryptpad implemented as an in-memory store",
+  "main": "amnesia.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xwiki-labs/cryptpad-amnesia-store.git"
+  },
+  "keywords": [
+    "cryptpad",
+    "storage"
+  ],
+  "author": "ansuz",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/xwiki-labs/cryptpad-amnesia-store/issues"
+  },
+  "homepage": "https://github.com/xwiki-labs/cryptpad-amnesia-store#readme"
+}
