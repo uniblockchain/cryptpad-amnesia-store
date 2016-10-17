@@ -4,7 +4,7 @@ An in-memory datastore for Cryptpad.
 
 ## Status
 
-Unsupported.
+Experimental.
 
 ## Why?
 
