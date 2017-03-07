@@ -1,6 +1,6 @@
 {
   "name": "cryptpad-amnesia-store",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "storage api for cryptpad implemented as an in-memory store",
   "main": "amnesia.js",
   "scripts": {
