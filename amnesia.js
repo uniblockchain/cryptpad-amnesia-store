@@ -68,8 +68,7 @@ module.exports.create = function(conf, cb){
 
             // clean up old longer histories even if people don't reload
             if (!conf.preserveHistory && channel.length > 250) {
-                var tmp = trimHistory(channel);
-                if (tmp) { channel = db[channelName] = tmp; }
+                trimHistory(channel);
             }
             if (cb) { cb(); }
         },
